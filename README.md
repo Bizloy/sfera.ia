@@ -66,7 +66,7 @@
 </head>
 <body>
     <header>
-        <img src="https://i.ibb.co/zn7w1Dd/IMG-8922.png" alt="SFERA Logo" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+        <img src="https://i.ibb.co/tKRzLRT/IMG-9091.jpg" alt="SFERA Logo" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
         <h1>SFERA (SFR)</h1>
     </header>
 
